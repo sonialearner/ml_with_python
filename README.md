@@ -23,3 +23,5 @@ import pandas as pd
 import mglearn
 위의 모듈들은 항상 import 한다고 가정
 mglearn은 https://github.com/rickiepark/introduction_to_ml_with_python 여기서 전체 파일 다운로드 후, mglearn 폴더만 개발중인 파일이 있는 폴더의 안에 넣어주면 됨 (간단하게 그림을 그리거나 필요한 데이터를 바로 불러들이기 위해 mglearn을 사용)
+
+sonialearner@gmail.com
